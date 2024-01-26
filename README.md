@@ -1,1 +1,1 @@
-# JS-week1-prep-exercises
+# JS-week1-prep-exercises-with-solutions
